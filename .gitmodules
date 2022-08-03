@@ -6,7 +6,7 @@
 	path = scripts
 	url = https://github.com/eliocamp/asymsam-scripts
 	branch = main
-[submodule "web"]
+[submodule "asymsam-web"]
 	path = web
 	url = https://github.com/eliocamp/asymsam-web
 	branch = main
