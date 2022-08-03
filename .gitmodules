@@ -1,6 +1,7 @@
 [submodule "asymsam-api"]
 	path = api
 	url = https://github.com/eliocamp/asymsam-api
+	branch = main
 [submodule "asymsam-scripts"]
 	path = scripts
 	url = https://github.com/eliocamp/asymsam-scripts
@@ -8,5 +9,3 @@
 	path = web
 	url = https://github.com/eliocamp/asymsam-web
 
-[submodule "api"]
-	branch = main
