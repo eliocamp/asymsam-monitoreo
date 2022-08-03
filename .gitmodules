@@ -1,9 +1,9 @@
 [submodule "asymsam-api"]
-	path = asymsam-api
+	path = api
 	url = https://github.com/eliocamp/asymsam-api
 [submodule "asymsam-scripts"]
-	path = asymsam-scripts
+	path = scripts
 	url = https://github.com/eliocamp/asymsam-scripts
 [submodule "asymsam-web"]
-	path = asymsam-web
+	path = web
 	url = https://github.com/eliocamp/asymsam-web
