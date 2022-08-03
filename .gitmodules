@@ -7,3 +7,6 @@
 [submodule "asymsam-web"]
 	path = web
 	url = https://github.com/eliocamp/asymsam-web
+
+[submodule "api"]
+	branch = main
